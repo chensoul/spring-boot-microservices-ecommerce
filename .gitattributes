@@ -1,0 +1,3 @@
+# GitHub Linguist：主内容为 Markdown 学习资料；Cursor 规则不参与语言统计
+*.md linguist-language=Markdown
+.cursor/** linguist-vendored
